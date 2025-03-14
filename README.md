@@ -29,7 +29,7 @@ Response:
 
 Möjliga fel: 
 
-404, om användare inte finns.
+404 Not Found, om användare inte finns.
 
 # Skapa en ny användare
 
@@ -45,7 +45,7 @@ Response:
 
 Möjliga fel: 
 
-400, om name saknas i body
+400 Bad Request, om name saknas i body
 
 # Uppdatera en användare
 
@@ -60,7 +60,7 @@ Response: { "id": 1, "name": "Erik" }
 
 Möjliga fel:
 
-404, Om användaren inte finns.
+404 Not Found, Om användaren inte finns.
 
 # Ta bort en användare 
 
@@ -75,4 +75,4 @@ Response:
 
 Möjliga fel:
 
-404, Om användaren inte finns
+404 Not Found, Om användaren inte finns
