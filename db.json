@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "favorite_character": "Monkey D. Luffy",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Kim"
+    }
+  ],
+  "one_piece_characters": [
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "epithet": "Straw Hat Luffy",
+      "character_debut": "Chapter 1, Episode 1",
+      "age": [
+        "7(debut)",
+        "17(pre-timeskip)",
+        "19(post-timeskip)"
+      ],
+      "birthday": "May 5th",
+      "origin": "East Blue, Foosha Village",
+      "current_bounty": "3.000.000.000",
+      "previous_bounty": [
+        "First Bounty: 30.000.000",
+        "Second Bounty: 100.000.000",
+        "Third Bounty: 300.000.000",
+        "Fourth Bounty: 400.000.000",
+        "Fifth Bounty: 500.000.000",
+        "Sixth Bounty: 1.500.000.000"
+      ],
+      "devil_fruit": {
+        "name": "Gomu Gomu no Mi",
+        "real_name": "Hito Hito no Mi, Model: Nika",
+        "type": "Paramecia",
+        "real_type": "Mythical Zoan",
+        "abilities": "Grants the user's body the propoties of rubber, making them a Rubber Human",
+        "real_abilities": "Allows the user to transform into the legendary Sun God Nika, gaining his rubbery attributes"
+      },
+      "haki": [
+        "Observation Haki",
+        "Armament Haki",
+        "Conqueror's Haki"
+      ],
+      "crew": "Straw Hat Pirates",
+      "role": "Captain",
+      "affiliations": [
+        "Straw Hat Pirates",
+        "Worst Generation",
+        "Straw Hat Grand Fleet",
+        "Four Emperors"
+      ],
+      "status": "Alive"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "epithet": "Pirate Hunter Zoro",
+      "character_debut": "Chapter 3, Episode 1",
+      "age": [
+        "19(debut)",
+        "21(after timeskip)"
+      ],
+      "birthday": "November 11th",
+      "origin": "East Blue",
+      "current_bounty": "1.111.000.000",
+      "previous_bounty": [
+        "First Bounty: 60.000.000",
+        "Second Bounty: 120.000.000",
+        "Third Bounty: 320.000.000"
+      ],
+      "devil_fruit": null,
+      "haki": [
+        "Observation Haki",
+        "Armament Haki",
+        "Conqueror's Haki"
+      ],
+      "swrods": [
+        "Wado Ichimonji",
+        "Sandai Kitetsu",
+        "Enma"
+      ],
+      "former_swords": [
+        "Two unamed katanas",
+        "Yubashiri",
+        "Shusui"
+      ],
+      "crew": "Straw Hat Pirates",
+      "role": [
+        "First Mate",
+        "Senior Officer",
+        "Master Swordsman"
+      ],
+      "affiliations": [
+        "Straw Hat Pirates",
+        "Worst Generation",
+        "Straw Hat Grand Fleet"
+      ],
+      "status": "Alive"
+    }
+  ]
+}
