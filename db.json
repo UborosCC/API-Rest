@@ -8,7 +8,15 @@
     },
     {
       "id": 2,
-      "name": "Kim"
+      "name": "Gabriel",
+      "favorite_character": "Son Goku",
+      "role": "Guest"
+    },
+    {
+      "id": 3,
+      "name": "Marcus",
+      "favorite_character": "Marshall D. Teach",
+      "role": "Guest"
     }
   ],
   "one_piece_characters": [
