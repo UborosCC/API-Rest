@@ -29,7 +29,11 @@ Response:
 
 Möjliga fel: 
 
+<<<<<<< HEAD
 404, om användare inte finns.
+=======
+404 Not Found, om användare inte finns.
+>>>>>>> c953987dc26f61218c6c5829e294f105d86998d2
 
 # Skapa en ny användare
 
@@ -45,7 +49,11 @@ Response:
 
 Möjliga fel: 
 
+<<<<<<< HEAD
 400, om name saknas i body
+=======
+400 Bad Request, om name saknas i body
+>>>>>>> c953987dc26f61218c6c5829e294f105d86998d2
 
 # Uppdatera en användare
 
@@ -60,7 +68,11 @@ Response: { "id": 1, "name": "Erik" }
 
 Möjliga fel:
 
+<<<<<<< HEAD
 404, Om användaren inte finns.
+=======
+404 Not Found, Om användaren inte finns.
+>>>>>>> c953987dc26f61218c6c5829e294f105d86998d2
 
 # Ta bort en användare 
 
@@ -75,4 +87,8 @@ Response:
 
 Möjliga fel:
 
+<<<<<<< HEAD
 404, Om användaren inte finns
+=======
+404 Not Found, Om användaren inte finns
+>>>>>>> c953987dc26f61218c6c5829e294f105d86998d2
